@@ -9,7 +9,7 @@ class Song
     if artist == nil 
       return nil
     else
-      nil
+      artist.name
     end
   end
 
